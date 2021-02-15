@@ -2,23 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="071b673a-8c10-4838-809d-c43007c1fd5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/CoreCompetency.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/CoreCompetency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/Employer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/Employer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/Job.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/PositionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/PositionType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/JobField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/Tests/JobTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/Tests/JobTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/CoreCompetency.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/CoreCompetency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/Employer.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/Employer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/Job.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/Location.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/PositionType.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-web-dev-techjobs-oo/src/org/launchcode/techjobs_oo/org/launchcode/techjobs_oo/PositionType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/Tests/JobTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment2/Tests/JobTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/org/launchcode/techjobs_oo/CoreCompetency.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment2/org/launchcode/techjobs_oo/CoreCompetency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/org/launchcode/techjobs_oo/Employer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment2/org/launchcode/techjobs_oo/Employer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/org/launchcode/techjobs_oo/Job.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment2/org/launchcode/techjobs_oo/Job.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/org/launchcode/techjobs_oo/Location.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment2/org/launchcode/techjobs_oo/Location.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/org/launchcode/techjobs_oo/PositionType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Assignment2/org/launchcode/techjobs_oo/PositionType.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,8 +52,21 @@
       <recent name="C:\Users\valarmathi\LaunchCode\Unit2\Assignment2\java-web-dev-techjobs-oo\src\org\launchcode\techjobs_oo" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="JobTest.testJobsForEquality" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.launchcode.techjobs_oo.Main" />
+      <module name="Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.launchcode.techjobs_oo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assignment2" />
       <extension name="coverage">
         <pattern>
@@ -66,7 +76,54 @@
       </extension>
       <option name="PACKAGE_NAME" value="Tests" />
       <option name="MAIN_CLASS_NAME" value="Tests.JobTest" />
-      <option name="METHOD_NAME" value="testJobsForEquality" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobTest.TestForBlankLineToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.JobTest" />
+      <option name="METHOD_NAME" value="TestForBlankLineToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobTest.TestForEmptyFieldToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.JobTest" />
+      <option name="METHOD_NAME" value="TestForEmptyFieldToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JobTest.TestForLabelAndDataToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.JobTest" />
+      <option name="METHOD_NAME" value="TestForLabelAndDataToString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,7 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.JobTest.testJobsForEquality" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.JobTest" />
+        <item itemvalue="JUnit.JobTest.TestForEmptyFieldToString" />
+        <item itemvalue="JUnit.JobTest.TestForLabelAndDataToString" />
+        <item itemvalue="JUnit.JobTest.TestForBlankLineToString" />
       </list>
     </recent_temporary>
   </component>
@@ -87,6 +148,14 @@
       <option name="presentableId" value="Default" />
       <updated>1613113970654</updated>
     </task>
+    <task id="LOCAL-00001" summary="part4-finish">
+      <created>1613367083485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613367083485</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,5 +169,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="part4-finish" />
+    <option name="LAST_COMMIT_MESSAGE" value="part4-finish" />
   </component>
 </project>
